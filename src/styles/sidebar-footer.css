@@ -187,6 +187,7 @@ footer {
     height: 70px;
     background-image: linear-gradient(to right, #a7138b, #387ddb);
     align-items: center;
+    padding: 10px;
 }
 
 .footer__content {
@@ -222,12 +223,13 @@ footer {
     font-weight: 600;
     text-decoration: none;
     text-transform: none;
-    padding: 10px;
+    padding-bottom: 30px;
+    padding-top: 15px;
     margin-left: 20px;
     margin-right: 20px;
     border: 0px;
-    width: fit-content;
-    height: 40px;
+    width: 250px;
+    height: 50px;
     cursor: pointer;
     font-family: var(--font-dm-sans);
 }
